@@ -1,0 +1,53 @@
+Script started on Sun 05 Oct 2014 09:56:34 PM CDT
+[4mukko[24m:[1m~/nlp[0m% time perl ngram.pl 1 10 2554.txt 2600,[K.txt 1339.tx[K[K[K[K[K99.txt
+.
+I see him a bad as my god.
+.
+" that natasha.
+" there,"" he noticed that course, though all the first time, gulping down and when you say more cruelly from heaven!
+.
+On a town think so much astonished governess' i didn' t want to take a moment.
+The narrator he was come in a sort of defending us, soaking clothes some insincerity, fearing to dolly lately been on the good look like her hands were only one that humiliation.
+" they fled like talking in moscow, and went out of his behind the crowd.
+" let me, sir.
+9.888u 0.084s 0:10.12 98.4%	0+0k 12568+0io 0pf+0w
+[4mukko[24m:[1m~/nlp[0m% time perl ngram.pl 2 10 2554.txt 2600.txt 1399.txt
+So the historians' own reflections; but the only favor i ask one thing," insisted sonya.
+Her gloves, there are few statesmen like him, the explosive one?
+Pierre seemed terrible now seemed to say that that question, which cost her immense crinoline that filled his glass, and there was no need to explain the construction of my action.
+" i am in love again, and yet could not conceive that what he was more than anything in the slightest detail, and between the prisoners even worse than they did not recognise it at all till death, is not and would be very much?
+Here i am.
+" in all the forms of matter-- english fashion.
+" what a capital, of what was said by levin-- been greatly displeased by the oak, too, was talking to him with eyes and he will do, and people avoided a collision till smolensk was reached-- give it away.
+"" no, this plan had not yet seen speranski in a minute.
+Be reasonable.
+" i don' t.
+9.880u 0.144s 0:10.04 99.8%	0+0k 0+0io 0pf+0w
+[4mukko[24m:[1m~/nlp[0m% time perl ngram.pl 3 10 2554.txt 2600.txt 1399.txt
+.
+.
+They were going shooting, after much whining and darting to and fro, had sat down at the table and the next day i set off to rejoin the army where he would like to see you.
+" who do you belong to the chest of drawers( on his last day, sobbing, enfeebled man whose leg had just been amputated, he recognized anatole kuragin.
+Since then she had refused him, she rallied her forces and joined the peasants and ryezunov himself said to levin, like a man heated in a fight who strikes those on his own authority and contrary to the wishes of the emperor, he rode on to the end, probably to emphasise his arguments, he squeezed her fingers warmly.
+.
+Bolkhovitinov was bespattered all over with myself, i am writing now with the title of" fiance" so unceremoniously applied to him.
+_ o la vertu va- t- en guerre ne sait quand reviendra.
+There i might be fully assured that you were a stepmother, not a commonplace!
+What have they been invented for if they can' t marry him.
+10.496u 0.132s 0:10.65 99.7%	0+0k 0+0io 0pf+0w
+[4mukko[24m:[1m~/nlp[0m% time perl ngra.[Km.pl 4 10 2554.txt 2600.txt 1399.txt
+The next day the sick man received the sacrament and extreme unction.
+" you could at least take back your words.
+He did not believe a word of what' s said about her," said anna, seriously and dreamily.
+"" love her?
+You like horses-- and you have them; dogs-- you have it.
+.
+Levin, anxious to see into everything and not to miss anything of importance.
+" and he began describing how the guards, having taken up their position and seeing troops before them, thought they were austrians, and all at once in an utterly different tone, subdued and mournful.
+The silence began to oppress the princess and she tried to pray.
+" he' s joining the hussars.
+10.800u 0.204s 0:11.03 99.7%	0+0k 0+0io 0pf+0w
+[4mukko[24m:[1m~/nlp[0m% exit
+exit
+
+Script done on Sun 05 Oct 2014 09:58:50 PM CDT
